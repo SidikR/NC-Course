@@ -6,6 +6,6 @@
     </head>
     <body> 
         @include('partial.navbar')
-        @yield('rahmad')
+        @yield('container')
     </body>
 </html>

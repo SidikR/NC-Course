@@ -1,0 +1,12 @@
+.main-wrapper{
+    background-image: url('../../assets/Hero-section.jpg');
+}
+.main-form{
+    width: 80%;
+}
+
+@media (min-width: 992px) { 
+    .main-form{
+        width: 30%;
+    }
+}
