@@ -7,5 +7,6 @@
     <body> 
         @include('partial.navbar')
         @yield('container')
+        @include('partial.footer')
     </body>
 </html>

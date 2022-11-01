@@ -18,5 +18,17 @@ Route::get('/register', function () {
 });
 
 Route::get('/', function () {
-    return view('auth.register');
+    return view('global.lp');
+});
+
+Route::get('/login', function () {
+    return view('auth.login');
+});
+
+Route::get('/lp', function () {
+    return view('global.lp');
+});
+
+Route::get('/main', function () {
+    return view('layout.main');
 });
