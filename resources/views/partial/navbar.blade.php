@@ -20,7 +20,7 @@
           <a class="btn btn-primary ms-5 me-1"  href="login" role="button">Login</a>
         </li>
         <li>
-          <a class="btn btn-secondary ms-1 me-4 " href="daftar" role="button">Daftar</a>
+          <a class="btn btn-secondary ms-1 me-4 " href="register" role="button">Daftar</a>
         </li>
       </ul>
     </div>
