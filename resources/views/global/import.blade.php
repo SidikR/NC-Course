@@ -8,3 +8,4 @@
 <link rel="stylesheet" href="{{asset('css/asset/asset.css')}}">
 <link rel="stylesheet" href="{{asset('css/asset/font.css')}}">
 <link rel="stylesheet" href="{{asset('css/asset/color.css')}}">
+<link href="sidebars.css" rel="stylesheet">

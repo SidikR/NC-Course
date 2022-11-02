@@ -32,3 +32,7 @@ Route::get('/lp', function () {
 Route::get('/main', function () {
     return view('layout.main');
 });
+
+Route::get('/dashboard', function () {
+    return view( 'admin.dashboard');
+});
