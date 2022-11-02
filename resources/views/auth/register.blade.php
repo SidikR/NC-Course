@@ -1,7 +1,7 @@
 @extends('layout.main-auth')
 
 @section('container')
-<form class="main-form row d-flex flex-column justify-content-center align-items-center g-3 start mt-sm-4" action="{{ url('/login') }}">
+<form class="main-form row d-flex flex-column justify-content-center align-items-center g-3 start mt-sm-4" action="{{ url('/') }}">
     
     <div class="d-flex justify-content-center mt-4">
         <h2>Noor Course</h2>
